@@ -54,7 +54,7 @@ function Portfolio() {
                     <div className="flex bg-red-500 w-48 h-48 rounded-lg transform -rotate-1 shadow"></div>
                     <div className="flex items-center justify-center absolute top-4 left-4 bg-white w-40 h-40 rounded-lg p-6 transform rotate-3 shadow-lg">
                         <FontAwesomeIcon
-                            className="w-16 h-16 transform -rotate-6 text-yellow-500"
+                            className="text-7xl transform -rotate-6 text-yellow-500"
                             icon={faBook}
                         />
                     </div>

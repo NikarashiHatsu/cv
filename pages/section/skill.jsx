@@ -28,15 +28,15 @@ function Skill() {
                     <div className="bg-purple-500 w-48 h-48 rounded-lg transform rotate-1 shadow"></div>
                     <div className="flex flex-grow absolute top-4 left-4 bg-white w-40 h-40 rounded-lg p-6 transform -rotate-3 shadow-lg">
                         <FontAwesomeIcon
-                            className="absolute top-0 left-4 w-20 h-20"
+                            className="absolute top-0 left-4 text-7xl"
                             icon={faPhp}
                         />
                         <FontAwesomeIcon
-                            className="absolute top-16 left-24 w-12 h-12 transform rotate-12"
+                            className="absolute top-16 left-24 text-6xl transform rotate-12"
                             icon={faLaravel}
                         />
                         <FontAwesomeIcon
-                            className="absolute top-20 left-6 w-16 h-16 transform -rotate-12"
+                            className="absolute top-20 left-6 text-6xl transform -rotate-12"
                             icon={faVuejs}
                         />
                     </div>
@@ -64,7 +64,7 @@ function Skill() {
                     <div className="flex bg-green-500 w-48 h-48 rounded-lg transform -rotate-1 shadow"></div>
                     <div className="flex items-center justify-center absolute top-4 left-4 bg-white w-40 h-40 rounded-lg p-6 transform rotate-3 shadow-lg">
                         <FontAwesomeIcon
-                            className="w-16 h-16 transform -rotate-6"
+                            className="text-7xl transform -rotate-6"
                             icon={faCameraRetro}
                         />
                     </div>
@@ -91,7 +91,7 @@ function Skill() {
                     <div className="flex bg-blue-500 w-48 h-48 rounded-lg transform rotate-1 shadow"></div>
                     <div className="flex items-center justify-center absolute top-4 left-4 bg-white w-40 h-40 rounded-lg p-6 transform -rotate-3 shadow-lg">
                         <FontAwesomeIcon
-                            className="w-16 h-16 transform rotate-6"
+                            className="text-7xl transform rotate-6"
                             icon={faPaintBrush}
                         />
                     </div>
@@ -120,7 +120,7 @@ function Skill() {
                     <div className="flex bg-gray-500 w-48 h-48 rounded-lg transform -rotate-1 shadow"></div>
                     <div className="flex items-center justify-center absolute top-4 left-4 bg-white w-40 h-40 rounded-lg p-6 transform rotate-3 shadow-lg">
                         <FontAwesomeIcon
-                            className="w-16 h-16 transform -rotate-6"
+                            className="text-7xl transform -rotate-6"
                             icon={faPen}
                         />
                     </div>
